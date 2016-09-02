@@ -10,7 +10,7 @@ namespace Variabler
     {
         static void Main(string[] args)
         {
-            //Övning1
+            //Övning1 
             Console.WriteLine("Mata in tal 1");
             string tal1 = Console.ReadLine();
             int nbr1 = int.Parse(tal1);
